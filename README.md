@@ -1,4 +1,4 @@
-# Projeto C — Game
+# Projeto C — BATALHA NAVAL
 📋 Descrição
 
 [Descrição breve do jogo e objetivo do jogador. Ex: "Um jogo de dungeon crawler onde o jogador enfrenta inimigos, coleta itens e tenta chegar ao fim da masmorra."]
